@@ -1,0 +1,12 @@
+name: OpusToCsv
+title: OpusToCsv
+username: fyt03r-sean-adam
+account: fyt03r-sean-adam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15906989
+bundleId:
+url: https://fyt03r-sean-adam.shinyapps.io/OpusToCsv/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
