@@ -17,13 +17,13 @@ if(!require(resemble)){
   require(resemble)
 }
 if(!require(simplerspec)){
-  devtools::install_github("https://github.com/philipp-baumann/simplerspec.git")
+  install_github("https://github.com/philipp-baumann/simplerspec.git")
   require(simplerspec)}
 if(!require(prospectr)){
-  #install_packages("prospectr")
-  devtools::install_github("https://github.com/l-ramirez-lopez/prospectr.git")
+  install.packages("prospectr")
   require(prospectr)
 }
+
 
 
 

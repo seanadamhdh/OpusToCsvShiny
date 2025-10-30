@@ -5,7 +5,7 @@ account: fyt03r-sean-adam
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15906989
-bundleId:
+bundleId: 11103171
 url: https://fyt03r-sean-adam.shinyapps.io/OpusToCsv/
 version: 1
 asMultiple: FALSE
